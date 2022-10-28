@@ -1,4 +1,4 @@
-# travelapp
+Travelapp
 
 Travel App by Mukul Atawnia
 
